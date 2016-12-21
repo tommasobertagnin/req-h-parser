@@ -1,0 +1,6 @@
+{
+  "name": "Request Header Parser Microservice",
+  "description": "Microservice that shows the request header",
+  "repository": "https://github.com/tommasobertagnin/req-h-parser",
+  "keywords": ["node", "express", "static"]
+}
